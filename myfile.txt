@@ -1,2 +1,0 @@
-Welcome to Git 
-I am learning Git commands and version control.
